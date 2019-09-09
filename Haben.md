@@ -1,7 +1,7 @@
-### **HABEN S.FOTO** ###  
+### **HABEN S.FOTO** ###
 _haben7@gmail.com_
 
-**EXPERIENCE**
+### **EXPERIENCE** ###
 ---
 Northwest Center- Early Intervention            									   
 Family Resources Coordinator
