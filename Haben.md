@@ -1,12 +1,12 @@
-**HABEN S.FOTO**  
-
+### **HABEN S.FOTO** ###  
 _haben7@gmail.com_
 
 **EXPERIENCE**
-
-  *Northwest Center- Early Intervention*             									   
-   *_Family Resources Coordinator_* 	
-   Jan 2017 Jan 2018
+---
+Northwest Center- Early Intervention            									   
+Family Resources Coordinator
+   
+Jan 2017 - Jan 2018
    
 * Served as primary resource for families referred to Early Intervention program
 *	Met with families on a regular basis to evaluate and monitor client progress and  determine if program is meeting their needs
@@ -16,6 +16,7 @@ _haben7@gmail.com_
 *	Worked with families, therapists and appropriate agencies to plan, develop and schedule service
 *	Collected data and prepared reports for funding agencies
 
+---
 
 American National Red Cross										                      
 PNW Territory Service Delivery Training Coordinator		
@@ -29,6 +30,8 @@ Jul 2012 – Jan 2017
 *	Logging and resolving all anomalous training incidents with customers and the Training Support Center
 *	Train new Instructors with the in-office duties/responsibilities
 
+---
+
 Ministry of Education (Adi-Ke Secondary School)   					 	                            
 Department Head & Senior English Instructor
 Adi-Ke, Eritrea
@@ -40,6 +43,8 @@ Sep 2007- Jan 2010
 *	Mentored and hosted student debating activities
 *	Ensured parent, student and community engagement
 * Presented departmental report in staff meetings
+
+---
 
 Sun-Light electrical Workshop and spare Ltd					                                                        
 Human Resources Generalist 
@@ -55,6 +60,8 @@ Jun 2002 – Nov 2007
 *	Administered benefits, compensation, and employee performance programs
 *	Ensured legal compliance of HR regulations and applicable employment laws, and update policies and/or procedures as required
 *	Maintained employee records and paperwork
+
+---
 
 **EDUCATION**
 
