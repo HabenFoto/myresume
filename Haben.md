@@ -1,5 +1,5 @@
 ### **HABEN S.FOTO** ###
-_haben7@gmail.com_
+_haben7@gmail.com_ // [Linkedin](https://www.linkedin.com/in/haben-foto/) // [GitHub](https://gist.github.com/HabenFoto)
 
 ### **EXPERIENCE** ###
 ---
@@ -64,6 +64,14 @@ Jun 2002 – Nov 2007
 ---
 
 **EDUCATION**
+
+**Ada Developers Academy**
+Seattle, WA // Feb. 2020 - Present
+* Studying full-stack software development
+* Ruby, Javascript, HTML & CSS, Web APIs, React, Ruby on Rails
+* CS Fundamentals - Data Structures and Algorithms
+* Test-Driven Development, Pair Programming, Agile Practices
+
 
 University of Asmara									      	                           
 B.S Education, Specialization in English Lit.
