@@ -1,4 +1,5 @@
 ### **HABEN S.FOTO** ###
+---
 _haben7@gmail.com_ // [Linkedin](https://www.linkedin.com/in/haben-foto/) // [GitHub](https://github.com/HabenFoto)
 
 
@@ -15,7 +16,6 @@ Seattle, WA // Feb. 2020 - Present
 **University of Asmara**	
 Asmara, Eritrea // Nov, 2007
 * B.S Education, Specialization in English Lit.
-
 
 
 ---
