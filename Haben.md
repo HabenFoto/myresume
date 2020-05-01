@@ -18,9 +18,9 @@ Asmara, Eritrea // Nov, 2007
 
 
 
-
-### **EXPERIENCE** ###
 ---
+### **EXPERIENCE** ###
+
 Northwest Center- Early Intervention            									   
 Family Resources Coordinator
    
