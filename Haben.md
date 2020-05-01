@@ -67,8 +67,9 @@ Sep 2007- Jan 2010
 ---
 
 **Volunteersim**
-** American Red Cross ** | 2010 - 2017
-* Language Bank Interprerator 
-* Translator and Health and Safety Dept. CPR/FA Aid Volunteer Instructor
-** University of Washington Medical Center ** | 2010 - 2011
+** American Red Cross ** || 2010 - 2017
+* Language Bank Interprerator and Translator 
+* Health and Safety Dept. CPR/FA Aid Volunteer Instructor
+
+** University of Washington Medical Center ** || 2010 - 2011
 * Patient Greeter
