@@ -14,8 +14,7 @@ Seattle, WA // Feb. 2020 - Present
 
 **University of Asmara**	
 Asmara, Eritrea // Nov, 2007
-*B.S Education
- Specialization in English Lit.
+* B.S Education, Specialization in English Lit.
 
 
 
